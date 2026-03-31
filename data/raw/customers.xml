@@ -1,0 +1,1803 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Customers>
+  <Customer>
+    <CustomerID>CUS00001</CustomerID>
+    <CustomerName>Customer 1</CustomerName>
+    <Email>customer1@example.com</Email>
+    <Phone>+84781695135</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00002</CustomerID>
+    <CustomerName>Customer 2</CustomerName>
+    <Email>customer2@example.com</Email>
+    <Phone>+84599085574</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00003</CustomerID>
+    <CustomerName>Customer 3</CustomerName>
+    <Email>customer3@example.com</Email>
+    <Phone>+84775808013</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00004</CustomerID>
+    <CustomerName>Customer 4</CustomerName>
+    <Email>customer4@example.com</Email>
+    <Phone>+84880451872</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00005</CustomerID>
+    <CustomerName>Customer 5</CustomerName>
+    <Email>customer5@example.com</Email>
+    <Phone>+84478575192</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00006</CustomerID>
+    <CustomerName>Customer 6</CustomerName>
+    <Email>customer6@example.com</Email>
+    <Phone>+84529509408</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00007</CustomerID>
+    <CustomerName>Customer 7</CustomerName>
+    <Email>customer7@example.com</Email>
+    <Phone>+84706919288</Phone>
+    <City>Hanoi</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00008</CustomerID>
+    <CustomerName>Customer 8</CustomerName>
+    <Email>customer8@example.com</Email>
+    <Phone>+84788561518</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00009</CustomerID>
+    <CustomerName>Customer 9</CustomerName>
+    <Email>customer9@example.com</Email>
+    <Phone>+84896751693</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00010</CustomerID>
+    <CustomerName>Customer 10</CustomerName>
+    <Email>customer10@example.com</Email>
+    <Phone>+84618587604</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00011</CustomerID>
+    <CustomerName>Customer 11</CustomerName>
+    <Email>customer11@example.com</Email>
+    <Phone>+84882177668</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00012</CustomerID>
+    <CustomerName>Customer 12</CustomerName>
+    <Email>customer12@example.com</Email>
+    <Phone>+84353839920</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00013</CustomerID>
+    <CustomerName>Customer 13</CustomerName>
+    <Email>customer13@example.com</Email>
+    <Phone>+84870292350</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00014</CustomerID>
+    <CustomerName>Customer 14</CustomerName>
+    <Email>customer14@example.com</Email>
+    <Phone>+84386019028</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00015</CustomerID>
+    <CustomerName>Customer 15</CustomerName>
+    <Email>customer15@example.com</Email>
+    <Phone>+84372972420</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00016</CustomerID>
+    <CustomerName>Customer 16</CustomerName>
+    <Email>customer16@example.com</Email>
+    <Phone>+84911684318</Phone>
+    <City>HCMC</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00017</CustomerID>
+    <CustomerName>Customer 17</CustomerName>
+    <Email>customer17@example.com</Email>
+    <Phone>+84342672287</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00018</CustomerID>
+    <CustomerName>Customer 18</CustomerName>
+    <Email>customer18@example.com</Email>
+    <Phone>+84926713347</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00019</CustomerID>
+    <CustomerName>Customer 19</CustomerName>
+    <Email>customer19@example.com</Email>
+    <Phone>+84579995032</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00020</CustomerID>
+    <CustomerName>Customer 20</CustomerName>
+    <Email>customer20@example.com</Email>
+    <Phone>+84585201412</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00021</CustomerID>
+    <CustomerName>Customer 21</CustomerName>
+    <Email>customer21@example.com</Email>
+    <Phone>+84993101194</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00022</CustomerID>
+    <CustomerName>Customer 22</CustomerName>
+    <Email>customer22@example.com</Email>
+    <Phone>+84377892576</Phone>
+    <City>Hanoi</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00023</CustomerID>
+    <CustomerName>Customer 23</CustomerName>
+    <Email>customer23@example.com</Email>
+    <Phone>+84904509817</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00024</CustomerID>
+    <CustomerName>Customer 24</CustomerName>
+    <Email>customer24@example.com</Email>
+    <Phone>+84528872698</Phone>
+    <City>Cantho</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00025</CustomerID>
+    <CustomerName>Customer 25</CustomerName>
+    <Email>customer25@example.com</Email>
+    <Phone>+84674745382</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00026</CustomerID>
+    <CustomerName>Customer 26</CustomerName>
+    <Email>customer26@example.com</Email>
+    <Phone>+84606002884</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00027</CustomerID>
+    <CustomerName>Customer 27</CustomerName>
+    <Email>customer27@example.com</Email>
+    <Phone>+84624825305</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00028</CustomerID>
+    <CustomerName>Customer 28</CustomerName>
+    <Email>customer28@example.com</Email>
+    <Phone>+84895499669</Phone>
+    <City>Danang</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00029</CustomerID>
+    <CustomerName>Customer 29</CustomerName>
+    <Email>customer29@example.com</Email>
+    <Phone>+84583968123</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00030</CustomerID>
+    <CustomerName>Customer 30</CustomerName>
+    <Email>customer30@example.com</Email>
+    <Phone>+84894019365</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00031</CustomerID>
+    <CustomerName>Customer 31</CustomerName>
+    <Email>customer31@example.com</Email>
+    <Phone>+84949431082</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00032</CustomerID>
+    <CustomerName>Customer 32</CustomerName>
+    <Email>customer32@example.com</Email>
+    <Phone>+84981007818</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00033</CustomerID>
+    <CustomerName>Customer 33</CustomerName>
+    <Email>customer33@example.com</Email>
+    <Phone>+84569639388</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00034</CustomerID>
+    <CustomerName>Customer 34</CustomerName>
+    <Email>customer34@example.com</Email>
+    <Phone>+84754811020</Phone>
+    <City>Danang</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00035</CustomerID>
+    <CustomerName>Customer 35</CustomerName>
+    <Email>customer35@example.com</Email>
+    <Phone>+84658153605</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00036</CustomerID>
+    <CustomerName>Customer 36</CustomerName>
+    <Email>customer36@example.com</Email>
+    <Phone>+84774417266</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00037</CustomerID>
+    <CustomerName>Customer 37</CustomerName>
+    <Email>customer37@example.com</Email>
+    <Phone>+84310382761</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00038</CustomerID>
+    <CustomerName>Customer 38</CustomerName>
+    <Email>customer38@example.com</Email>
+    <Phone>+84460045822</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00039</CustomerID>
+    <CustomerName>Customer 39</CustomerName>
+    <Email>customer39@example.com</Email>
+    <Phone>+84925464884</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00040</CustomerID>
+    <CustomerName>Customer 40</CustomerName>
+    <Email>customer40@example.com</Email>
+    <Phone>+84436843584</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00041</CustomerID>
+    <CustomerName>Customer 41</CustomerName>
+    <Email>customer41@example.com</Email>
+    <Phone>+84342836793</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00042</CustomerID>
+    <CustomerName>Customer 42</CustomerName>
+    <Email>customer42@example.com</Email>
+    <Phone>+84567930513</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00043</CustomerID>
+    <CustomerName>Customer 43</CustomerName>
+    <Email>customer43@example.com</Email>
+    <Phone>+84736344399</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00044</CustomerID>
+    <CustomerName>Customer 44</CustomerName>
+    <Email>customer44@example.com</Email>
+    <Phone>+84474484941</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00045</CustomerID>
+    <CustomerName>Customer 45</CustomerName>
+    <Email>customer45@example.com</Email>
+    <Phone>+84492587044</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00046</CustomerID>
+    <CustomerName>Customer 46</CustomerName>
+    <Email>customer46@example.com</Email>
+    <Phone>+84566467544</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00047</CustomerID>
+    <CustomerName>Customer 47</CustomerName>
+    <Email>customer47@example.com</Email>
+    <Phone>+84416066793</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00048</CustomerID>
+    <CustomerName>Customer 48</CustomerName>
+    <Email>customer48@example.com</Email>
+    <Phone>+84538836384</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00049</CustomerID>
+    <CustomerName>Customer 49</CustomerName>
+    <Email>customer49@example.com</Email>
+    <Phone>+84627696198</Phone>
+    <City>HCMC</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00050</CustomerID>
+    <CustomerName>Customer 50</CustomerName>
+    <Email>customer50@example.com</Email>
+    <Phone>+84507371533</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00051</CustomerID>
+    <CustomerName>Customer 51</CustomerName>
+    <Email>customer51@example.com</Email>
+    <Phone>+84374539964</Phone>
+    <City>Danang</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00052</CustomerID>
+    <CustomerName>Customer 52</CustomerName>
+    <Email>customer52@example.com</Email>
+    <Phone>+84846970178</Phone>
+    <City>Hue</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00053</CustomerID>
+    <CustomerName>Customer 53</CustomerName>
+    <Email>customer53@example.com</Email>
+    <Phone>+84329635852</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00054</CustomerID>
+    <CustomerName>Customer 54</CustomerName>
+    <Email>customer54@example.com</Email>
+    <Phone>+84923403479</Phone>
+    <City>Danang</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00055</CustomerID>
+    <CustomerName>Customer 55</CustomerName>
+    <Email>customer55@example.com</Email>
+    <Phone>+84940563507</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00056</CustomerID>
+    <CustomerName>Customer 56</CustomerName>
+    <Email>customer56@example.com</Email>
+    <Phone>+84636808455</Phone>
+    <City>Hue</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00057</CustomerID>
+    <CustomerName>Customer 57</CustomerName>
+    <Email>customer57@example.com</Email>
+    <Phone>+84424173718</Phone>
+    <City>Hue</City>
+    <Country>Indonesia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00058</CustomerID>
+    <CustomerName>Customer 58</CustomerName>
+    <Email>customer58@example.com</Email>
+    <Phone>+84573506211</Phone>
+    <City>Hanoi</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00059</CustomerID>
+    <CustomerName>Customer 59</CustomerName>
+    <Email>customer59@example.com</Email>
+    <Phone>+84858260221</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00060</CustomerID>
+    <CustomerName>Customer 60</CustomerName>
+    <Email>customer60@example.com</Email>
+    <Phone>+84763102056</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00061</CustomerID>
+    <CustomerName>Customer 61</CustomerName>
+    <Email>customer61@example.com</Email>
+    <Phone>+84637064353</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00062</CustomerID>
+    <CustomerName>Customer 62</CustomerName>
+    <Email>customer62@example.com</Email>
+    <Phone>+84632091877</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00063</CustomerID>
+    <CustomerName>Customer 63</CustomerName>
+    <Email>customer63@example.com</Email>
+    <Phone>+84617457352</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00064</CustomerID>
+    <CustomerName>Customer 64</CustomerName>
+    <Email>customer64@example.com</Email>
+    <Phone>+84751450815</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00065</CustomerID>
+    <CustomerName>Customer 65</CustomerName>
+    <Email>customer65@example.com</Email>
+    <Phone>+84911072118</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00066</CustomerID>
+    <CustomerName>Customer 66</CustomerName>
+    <Email>customer66@example.com</Email>
+    <Phone>+84300435874</Phone>
+    <City>Danang</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00067</CustomerID>
+    <CustomerName>Customer 67</CustomerName>
+    <Email>customer67@example.com</Email>
+    <Phone>+84761588882</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00068</CustomerID>
+    <CustomerName>Customer 68</CustomerName>
+    <Email>customer68@example.com</Email>
+    <Phone>+84646012478</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00069</CustomerID>
+    <CustomerName>Customer 69</CustomerName>
+    <Email>customer69@example.com</Email>
+    <Phone>+84529460134</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00070</CustomerID>
+    <CustomerName>Customer 70</CustomerName>
+    <Email>customer70@example.com</Email>
+    <Phone>+84482204745</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00071</CustomerID>
+    <CustomerName>Customer 71</CustomerName>
+    <Email>customer71@example.com</Email>
+    <Phone>+84979615069</Phone>
+    <City>Cantho</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00072</CustomerID>
+    <CustomerName>Customer 72</CustomerName>
+    <Email>customer72@example.com</Email>
+    <Phone>+84552188235</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00073</CustomerID>
+    <CustomerName>Customer 73</CustomerName>
+    <Email>customer73@example.com</Email>
+    <Phone>+84458220114</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00074</CustomerID>
+    <CustomerName>Customer 74</CustomerName>
+    <Email>customer74@example.com</Email>
+    <Phone>+84810173760</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00075</CustomerID>
+    <CustomerName>Customer 75</CustomerName>
+    <Email>customer75@example.com</Email>
+    <Phone>+84745002643</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00076</CustomerID>
+    <CustomerName>Customer 76</CustomerName>
+    <Email>customer76@example.com</Email>
+    <Phone>+84712293741</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00077</CustomerID>
+    <CustomerName>Customer 77</CustomerName>
+    <Email>customer77@example.com</Email>
+    <Phone>+84458453521</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00078</CustomerID>
+    <CustomerName>Customer 78</CustomerName>
+    <Email>customer78@example.com</Email>
+    <Phone>+84534978881</Phone>
+    <City>HCMC</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00079</CustomerID>
+    <CustomerName>Customer 79</CustomerName>
+    <Email>customer79@example.com</Email>
+    <Phone>+84353921577</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00080</CustomerID>
+    <CustomerName>Customer 80</CustomerName>
+    <Email>customer80@example.com</Email>
+    <Phone>+84790122159</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00081</CustomerID>
+    <CustomerName>Customer 81</CustomerName>
+    <Email>customer81@example.com</Email>
+    <Phone>+84870298515</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00082</CustomerID>
+    <CustomerName>Customer 82</CustomerName>
+    <Email>customer82@example.com</Email>
+    <Phone>+84775209597</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00083</CustomerID>
+    <CustomerName>Customer 83</CustomerName>
+    <Email>customer83@example.com</Email>
+    <Phone>+84888273030</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00084</CustomerID>
+    <CustomerName>Customer 84</CustomerName>
+    <Email>customer84@example.com</Email>
+    <Phone>+84809677794</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00085</CustomerID>
+    <CustomerName>Customer 85</CustomerName>
+    <Email>customer85@example.com</Email>
+    <Phone>+84984683755</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00086</CustomerID>
+    <CustomerName>Customer 86</CustomerName>
+    <Email>customer86@example.com</Email>
+    <Phone>+84972966010</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00087</CustomerID>
+    <CustomerName>Customer 87</CustomerName>
+    <Email>customer87@example.com</Email>
+    <Phone>+84383197117</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00088</CustomerID>
+    <CustomerName>Customer 88</CustomerName>
+    <Email>customer88@example.com</Email>
+    <Phone>+84660613550</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00089</CustomerID>
+    <CustomerName>Customer 89</CustomerName>
+    <Email>customer89@example.com</Email>
+    <Phone>+84448578017</Phone>
+    <City>HCMC</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00090</CustomerID>
+    <CustomerName>Customer 90</CustomerName>
+    <Email>customer90@example.com</Email>
+    <Phone>+84464073400</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00091</CustomerID>
+    <CustomerName>Customer 91</CustomerName>
+    <Email>customer91@example.com</Email>
+    <Phone>+84737656494</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00092</CustomerID>
+    <CustomerName>Customer 92</CustomerName>
+    <Email>customer92@example.com</Email>
+    <Phone>+84746434187</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00093</CustomerID>
+    <CustomerName>Customer 93</CustomerName>
+    <Email>customer93@example.com</Email>
+    <Phone>+84718197538</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00094</CustomerID>
+    <CustomerName>Customer 94</CustomerName>
+    <Email>customer94@example.com</Email>
+    <Phone>+84708431021</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00095</CustomerID>
+    <CustomerName>Customer 95</CustomerName>
+    <Email>customer95@example.com</Email>
+    <Phone>+84620632895</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00096</CustomerID>
+    <CustomerName>Customer 96</CustomerName>
+    <Email>customer96@example.com</Email>
+    <Phone>+84886405096</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00097</CustomerID>
+    <CustomerName>Customer 97</CustomerName>
+    <Email>customer97@example.com</Email>
+    <Phone>+84535602191</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00098</CustomerID>
+    <CustomerName>Customer 98</CustomerName>
+    <Email>customer98@example.com</Email>
+    <Phone>+84331165166</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00099</CustomerID>
+    <CustomerName>Customer 99</CustomerName>
+    <Email>customer99@example.com</Email>
+    <Phone>+84734131719</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00100</CustomerID>
+    <CustomerName>Customer 100</CustomerName>
+    <Email>customer100@example.com</Email>
+    <Phone>+84968143326</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00101</CustomerID>
+    <CustomerName>Customer 101</CustomerName>
+    <Email>customer101@example.com</Email>
+    <Phone>+84935540030</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00102</CustomerID>
+    <CustomerName>Customer 102</CustomerName>
+    <Email>customer102@example.com</Email>
+    <Phone>+84990147183</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00103</CustomerID>
+    <CustomerName>Customer 103</CustomerName>
+    <Email>customer103@example.com</Email>
+    <Phone>+84495130056</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00104</CustomerID>
+    <CustomerName>Customer 104</CustomerName>
+    <Email>customer104@example.com</Email>
+    <Phone>+84651492250</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00105</CustomerID>
+    <CustomerName>Customer 105</CustomerName>
+    <Email>customer105@example.com</Email>
+    <Phone>+84662388455</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00106</CustomerID>
+    <CustomerName>Customer 106</CustomerName>
+    <Email>customer106@example.com</Email>
+    <Phone>+84570874491</Phone>
+    <City>Hanoi</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00107</CustomerID>
+    <CustomerName>Customer 107</CustomerName>
+    <Email>customer107@example.com</Email>
+    <Phone>+84879196799</Phone>
+    <City>Hanoi</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00108</CustomerID>
+    <CustomerName>Customer 108</CustomerName>
+    <Email>customer108@example.com</Email>
+    <Phone>+84998086909</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00109</CustomerID>
+    <CustomerName>Customer 109</CustomerName>
+    <Email>customer109@example.com</Email>
+    <Phone>+84565518424</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00110</CustomerID>
+    <CustomerName>Customer 110</CustomerName>
+    <Email>customer110@example.com</Email>
+    <Phone>+84463619298</Phone>
+    <City>HCMC</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00111</CustomerID>
+    <CustomerName>Customer 111</CustomerName>
+    <Email>customer111@example.com</Email>
+    <Phone>+84422824732</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00112</CustomerID>
+    <CustomerName>Customer 112</CustomerName>
+    <Email>customer112@example.com</Email>
+    <Phone>+84575139575</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00113</CustomerID>
+    <CustomerName>Customer 113</CustomerName>
+    <Email>customer113@example.com</Email>
+    <Phone>+84952027025</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00114</CustomerID>
+    <CustomerName>Customer 114</CustomerName>
+    <Email>customer114@example.com</Email>
+    <Phone>+84416070149</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00115</CustomerID>
+    <CustomerName>Customer 115</CustomerName>
+    <Email>customer115@example.com</Email>
+    <Phone>+84918257024</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00116</CustomerID>
+    <CustomerName>Customer 116</CustomerName>
+    <Email>customer116@example.com</Email>
+    <Phone>+84512954978</Phone>
+    <City>Hanoi</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00117</CustomerID>
+    <CustomerName>Customer 117</CustomerName>
+    <Email>customer117@example.com</Email>
+    <Phone>+84973496394</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00118</CustomerID>
+    <CustomerName>Customer 118</CustomerName>
+    <Email>customer118@example.com</Email>
+    <Phone>+84623821937</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00119</CustomerID>
+    <CustomerName>Customer 119</CustomerName>
+    <Email>customer119@example.com</Email>
+    <Phone>+84344097647</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00120</CustomerID>
+    <CustomerName>Customer 120</CustomerName>
+    <Email>customer120@example.com</Email>
+    <Phone>+84697897455</Phone>
+    <City>Hanoi</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00121</CustomerID>
+    <CustomerName>Customer 121</CustomerName>
+    <Email>customer121@example.com</Email>
+    <Phone>+84666394187</Phone>
+    <City>Hanoi</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00122</CustomerID>
+    <CustomerName>Customer 122</CustomerName>
+    <Email>customer122@example.com</Email>
+    <Phone>+84413321496</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00123</CustomerID>
+    <CustomerName>Customer 123</CustomerName>
+    <Email>customer123@example.com</Email>
+    <Phone>+84793641365</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00124</CustomerID>
+    <CustomerName>Customer 124</CustomerName>
+    <Email>customer124@example.com</Email>
+    <Phone>+84860221300</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00125</CustomerID>
+    <CustomerName>Customer 125</CustomerName>
+    <Email>customer125@example.com</Email>
+    <Phone>+84819151495</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00126</CustomerID>
+    <CustomerName>Customer 126</CustomerName>
+    <Email>customer126@example.com</Email>
+    <Phone>+84936164778</Phone>
+    <City>Danang</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00127</CustomerID>
+    <CustomerName>Customer 127</CustomerName>
+    <Email>customer127@example.com</Email>
+    <Phone>+84393053577</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00128</CustomerID>
+    <CustomerName>Customer 128</CustomerName>
+    <Email>customer128@example.com</Email>
+    <Phone>+84798976917</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00129</CustomerID>
+    <CustomerName>Customer 129</CustomerName>
+    <Email>customer129@example.com</Email>
+    <Phone>+84706936666</Phone>
+    <City>Danang</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00130</CustomerID>
+    <CustomerName>Customer 130</CustomerName>
+    <Email>customer130@example.com</Email>
+    <Phone>+84648981305</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00131</CustomerID>
+    <CustomerName>Customer 131</CustomerName>
+    <Email>customer131@example.com</Email>
+    <Phone>+84680990401</Phone>
+    <City>Danang</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00132</CustomerID>
+    <CustomerName>Customer 132</CustomerName>
+    <Email>customer132@example.com</Email>
+    <Phone>+84940116562</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00133</CustomerID>
+    <CustomerName>Customer 133</CustomerName>
+    <Email>customer133@example.com</Email>
+    <Phone>+84854724287</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00134</CustomerID>
+    <CustomerName>Customer 134</CustomerName>
+    <Email>customer134@example.com</Email>
+    <Phone>+84736398872</Phone>
+    <City>Hue</City>
+    <Country>Indonesia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00135</CustomerID>
+    <CustomerName>Customer 135</CustomerName>
+    <Email>customer135@example.com</Email>
+    <Phone>+84811201082</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00136</CustomerID>
+    <CustomerName>Customer 136</CustomerName>
+    <Email>customer136@example.com</Email>
+    <Phone>+84399915275</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00137</CustomerID>
+    <CustomerName>Customer 137</CustomerName>
+    <Email>customer137@example.com</Email>
+    <Phone>+84561246928</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00138</CustomerID>
+    <CustomerName>Customer 138</CustomerName>
+    <Email>customer138@example.com</Email>
+    <Phone>+84808159580</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00139</CustomerID>
+    <CustomerName>Customer 139</CustomerName>
+    <Email>customer139@example.com</Email>
+    <Phone>+84756881239</Phone>
+    <City>Cantho</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00140</CustomerID>
+    <CustomerName>Customer 140</CustomerName>
+    <Email>customer140@example.com</Email>
+    <Phone>+84787205269</Phone>
+    <City>Danang</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00141</CustomerID>
+    <CustomerName>Customer 141</CustomerName>
+    <Email>customer141@example.com</Email>
+    <Phone>+84547538338</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00142</CustomerID>
+    <CustomerName>Customer 142</CustomerName>
+    <Email>customer142@example.com</Email>
+    <Phone>+84428370927</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00143</CustomerID>
+    <CustomerName>Customer 143</CustomerName>
+    <Email>customer143@example.com</Email>
+    <Phone>+84532341238</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00144</CustomerID>
+    <CustomerName>Customer 144</CustomerName>
+    <Email>customer144@example.com</Email>
+    <Phone>+84933064117</Phone>
+    <City>Cantho</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00145</CustomerID>
+    <CustomerName>Customer 145</CustomerName>
+    <Email>customer145@example.com</Email>
+    <Phone>+84407939087</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00146</CustomerID>
+    <CustomerName>Customer 146</CustomerName>
+    <Email>customer146@example.com</Email>
+    <Phone>+84687493096</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00147</CustomerID>
+    <CustomerName>Customer 147</CustomerName>
+    <Email>customer147@example.com</Email>
+    <Phone>+84873523188</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00148</CustomerID>
+    <CustomerName>Customer 148</CustomerName>
+    <Email>customer148@example.com</Email>
+    <Phone>+84358546865</Phone>
+    <City>Cantho</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00149</CustomerID>
+    <CustomerName>Customer 149</CustomerName>
+    <Email>customer149@example.com</Email>
+    <Phone>+84435591568</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00150</CustomerID>
+    <CustomerName>Customer 150</CustomerName>
+    <Email>customer150@example.com</Email>
+    <Phone>+84916396766</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00151</CustomerID>
+    <CustomerName>Customer 151</CustomerName>
+    <Email>customer151@example.com</Email>
+    <Phone>+84772949775</Phone>
+    <City>Danang</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00152</CustomerID>
+    <CustomerName>Customer 152</CustomerName>
+    <Email>customer152@example.com</Email>
+    <Phone>+84571096600</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00153</CustomerID>
+    <CustomerName>Customer 153</CustomerName>
+    <Email>customer153@example.com</Email>
+    <Phone>+84730256336</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00154</CustomerID>
+    <CustomerName>Customer 154</CustomerName>
+    <Email>customer154@example.com</Email>
+    <Phone>+84975862179</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00155</CustomerID>
+    <CustomerName>Customer 155</CustomerName>
+    <Email>customer155@example.com</Email>
+    <Phone>+84904344408</Phone>
+    <City>Danang</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00156</CustomerID>
+    <CustomerName>Customer 156</CustomerName>
+    <Email>customer156@example.com</Email>
+    <Phone>+84427186396</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00157</CustomerID>
+    <CustomerName>Customer 157</CustomerName>
+    <Email>customer157@example.com</Email>
+    <Phone>+84940086326</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00158</CustomerID>
+    <CustomerName>Customer 158</CustomerName>
+    <Email>customer158@example.com</Email>
+    <Phone>+84708427798</Phone>
+    <City>Hue</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00159</CustomerID>
+    <CustomerName>Customer 159</CustomerName>
+    <Email>customer159@example.com</Email>
+    <Phone>+84931924051</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00160</CustomerID>
+    <CustomerName>Customer 160</CustomerName>
+    <Email>customer160@example.com</Email>
+    <Phone>+84966823010</Phone>
+    <City>Hanoi</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00161</CustomerID>
+    <CustomerName>Customer 161</CustomerName>
+    <Email>customer161@example.com</Email>
+    <Phone>+84406551233</Phone>
+    <City>HCMC</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00162</CustomerID>
+    <CustomerName>Customer 162</CustomerName>
+    <Email>customer162@example.com</Email>
+    <Phone>+84387174381</Phone>
+    <City>HCMC</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00163</CustomerID>
+    <CustomerName>Customer 163</CustomerName>
+    <Email>customer163@example.com</Email>
+    <Phone>+84892697161</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00164</CustomerID>
+    <CustomerName>Customer 164</CustomerName>
+    <Email>customer164@example.com</Email>
+    <Phone>+84738642403</Phone>
+    <City>Hue</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00165</CustomerID>
+    <CustomerName>Customer 165</CustomerName>
+    <Email>customer165@example.com</Email>
+    <Phone>+84612737284</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00166</CustomerID>
+    <CustomerName>Customer 166</CustomerName>
+    <Email>customer166@example.com</Email>
+    <Phone>+84603566540</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00167</CustomerID>
+    <CustomerName>Customer 167</CustomerName>
+    <Email>customer167@example.com</Email>
+    <Phone>+84550636897</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00168</CustomerID>
+    <CustomerName>Customer 168</CustomerName>
+    <Email>customer168@example.com</Email>
+    <Phone>+84512406764</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00169</CustomerID>
+    <CustomerName>Customer 169</CustomerName>
+    <Email>customer169@example.com</Email>
+    <Phone>+84541387305</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00170</CustomerID>
+    <CustomerName>Customer 170</CustomerName>
+    <Email>customer170@example.com</Email>
+    <Phone>+84376675731</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00171</CustomerID>
+    <CustomerName>Customer 171</CustomerName>
+    <Email>customer171@example.com</Email>
+    <Phone>+84938923667</Phone>
+    <City>Cantho</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00172</CustomerID>
+    <CustomerName>Customer 172</CustomerName>
+    <Email>customer172@example.com</Email>
+    <Phone>+84433523720</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00173</CustomerID>
+    <CustomerName>Customer 173</CustomerName>
+    <Email>customer173@example.com</Email>
+    <Phone>+84732190231</Phone>
+    <City>Danang</City>
+    <Country>Indonesia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00174</CustomerID>
+    <CustomerName>Customer 174</CustomerName>
+    <Email>customer174@example.com</Email>
+    <Phone>+84830208579</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00175</CustomerID>
+    <CustomerName>Customer 175</CustomerName>
+    <Email>customer175@example.com</Email>
+    <Phone>+84342800191</Phone>
+    <City>Hue</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00176</CustomerID>
+    <CustomerName>Customer 176</CustomerName>
+    <Email>customer176@example.com</Email>
+    <Phone>+84568830491</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00177</CustomerID>
+    <CustomerName>Customer 177</CustomerName>
+    <Email>customer177@example.com</Email>
+    <Phone>+84917615339</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00178</CustomerID>
+    <CustomerName>Customer 178</CustomerName>
+    <Email>customer178@example.com</Email>
+    <Phone>+84589385259</Phone>
+    <City>Cantho</City>
+    <Country>Vietnam</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00179</CustomerID>
+    <CustomerName>Customer 179</CustomerName>
+    <Email>customer179@example.com</Email>
+    <Phone>+84805196410</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00180</CustomerID>
+    <CustomerName>Customer 180</CustomerName>
+    <Email>customer180@example.com</Email>
+    <Phone>+84494872482</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00181</CustomerID>
+    <CustomerName>Customer 181</CustomerName>
+    <Email>customer181@example.com</Email>
+    <Phone>+84827986559</Phone>
+    <City>Hanoi</City>
+    <Country>Malaysia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00182</CustomerID>
+    <CustomerName>Customer 182</CustomerName>
+    <Email>customer182@example.com</Email>
+    <Phone>+84738460431</Phone>
+    <City>Danang</City>
+    <Country>Singapore</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00183</CustomerID>
+    <CustomerName>Customer 183</CustomerName>
+    <Email>customer183@example.com</Email>
+    <Phone>+84412313264</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00184</CustomerID>
+    <CustomerName>Customer 184</CustomerName>
+    <Email>customer184@example.com</Email>
+    <Phone>+84832005813</Phone>
+    <City>Danang</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00185</CustomerID>
+    <CustomerName>Customer 185</CustomerName>
+    <Email>customer185@example.com</Email>
+    <Phone>+84339403247</Phone>
+    <City>Hue</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00186</CustomerID>
+    <CustomerName>Customer 186</CustomerName>
+    <Email>customer186@example.com</Email>
+    <Phone>+84571011200</Phone>
+    <City>Danang</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00187</CustomerID>
+    <CustomerName>Customer 187</CustomerName>
+    <Email>customer187@example.com</Email>
+    <Phone>+84852543518</Phone>
+    <City>Hanoi</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00188</CustomerID>
+    <CustomerName>Customer 188</CustomerName>
+    <Email>customer188@example.com</Email>
+    <Phone>+84743721204</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00189</CustomerID>
+    <CustomerName>Customer 189</CustomerName>
+    <Email>customer189@example.com</Email>
+    <Phone>+84688457631</Phone>
+    <City>Cantho</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00190</CustomerID>
+    <CustomerName>Customer 190</CustomerName>
+    <Email>customer190@example.com</Email>
+    <Phone>+84774637858</Phone>
+    <City>Hanoi</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00191</CustomerID>
+    <CustomerName>Customer 191</CustomerName>
+    <Email>customer191@example.com</Email>
+    <Phone>+84889720101</Phone>
+    <City>HCMC</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00192</CustomerID>
+    <CustomerName>Customer 192</CustomerName>
+    <Email>customer192@example.com</Email>
+    <Phone>+84820455331</Phone>
+    <City>Hanoi</City>
+    <Country>Vietnam</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00193</CustomerID>
+    <CustomerName>Customer 193</CustomerName>
+    <Email>customer193@example.com</Email>
+    <Phone>+84953770973</Phone>
+    <City>HCMC</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00194</CustomerID>
+    <CustomerName>Customer 194</CustomerName>
+    <Email>customer194@example.com</Email>
+    <Phone>+84891458887</Phone>
+    <City>Hanoi</City>
+    <Country>Indonesia</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00195</CustomerID>
+    <CustomerName>Customer 195</CustomerName>
+    <Email>customer195@example.com</Email>
+    <Phone>+84400082623</Phone>
+    <City>HCMC</City>
+    <Country>Vietnam</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00196</CustomerID>
+    <CustomerName>Customer 196</CustomerName>
+    <Email>customer196@example.com</Email>
+    <Phone>+84426128312</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>SMB</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00197</CustomerID>
+    <CustomerName>Customer 197</CustomerName>
+    <Email>customer197@example.com</Email>
+    <Phone>+84613383963</Phone>
+    <City>Cantho</City>
+    <Country>Singapore</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00198</CustomerID>
+    <CustomerName>Customer 198</CustomerName>
+    <Email>customer198@example.com</Email>
+    <Phone>+84818079974</Phone>
+    <City>Hue</City>
+    <Country>Thailand</Country>
+    <Segment>Corporate</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00199</CustomerID>
+    <CustomerName>Customer 199</CustomerName>
+    <Email>customer199@example.com</Email>
+    <Phone>+84891916368</Phone>
+    <City>HCMC</City>
+    <Country>Malaysia</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+  <Customer>
+    <CustomerID>CUS00200</CustomerID>
+    <CustomerName>Customer 200</CustomerName>
+    <Email>customer200@example.com</Email>
+    <Phone>+84943576792</Phone>
+    <City>Cantho</City>
+    <Country>Thailand</Country>
+    <Segment>Consumer</Segment>
+  </Customer>
+</Customers>

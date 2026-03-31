@@ -1,0 +1,23 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: sales_dw
+    environment:
+      POSTGRES_USER: dataeng
+      POSTGRES_PASSWORD: dataeng123
+      POSTGRES_DB: sales_analytics
+    ports:
+      - "5433:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./migrations:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dataeng -d sales_analytics"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pg_data:

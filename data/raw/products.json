@@ -1,0 +1,402 @@
+[
+  {
+    "product_id": "PRD0001",
+    "product_name": "Smartphones Model B1",
+    "category": "Electronics",
+    "sub_category": "Smartphones",
+    "unit_cost": 372.07,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0002",
+    "product_name": "Desks Model C2",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 369.55,
+    "supplier_id": "SUP009"
+  },
+  {
+    "product_id": "PRD0003",
+    "product_name": "Tablets Model D3",
+    "category": "Electronics",
+    "sub_category": "Tablets",
+    "unit_cost": 20.73,
+    "supplier_id": "SUP002"
+  },
+  {
+    "product_id": "PRD0004",
+    "product_name": "Desks Model E4",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 255.15,
+    "supplier_id": "SUP001"
+  },
+  {
+    "product_id": "PRD0005",
+    "product_name": "Lamps Model F5",
+    "category": "Furniture",
+    "sub_category": "Lamps",
+    "unit_cost": 114.12,
+    "supplier_id": "SUP010"
+  },
+  {
+    "product_id": "PRD0006",
+    "product_name": "Stationery Model G6",
+    "category": "Office",
+    "sub_category": "Stationery",
+    "unit_cost": 380.61,
+    "supplier_id": "SUP003"
+  },
+  {
+    "product_id": "PRD0007",
+    "product_name": "Shoes Model H7",
+    "category": "Clothing",
+    "sub_category": "Shoes",
+    "unit_cost": 142.55,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0008",
+    "product_name": "Stationery Model I8",
+    "category": "Office",
+    "sub_category": "Stationery",
+    "unit_cost": 50.91,
+    "supplier_id": "SUP002"
+  },
+  {
+    "product_id": "PRD0009",
+    "product_name": "Printers Model J9",
+    "category": "Office",
+    "sub_category": "Printers",
+    "unit_cost": 303.84,
+    "supplier_id": "SUP001"
+  },
+  {
+    "product_id": "PRD0010",
+    "product_name": "Shirts Model K10",
+    "category": "Clothing",
+    "sub_category": "Shirts",
+    "unit_cost": 486.69,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0011",
+    "product_name": "Accessories Model L11",
+    "category": "Electronics",
+    "sub_category": "Accessories",
+    "unit_cost": 415.56,
+    "supplier_id": "SUP010"
+  },
+  {
+    "product_id": "PRD0012",
+    "product_name": "Paper Model M12",
+    "category": "Office",
+    "sub_category": "Paper",
+    "unit_cost": 353.76,
+    "supplier_id": "SUP001"
+  },
+  {
+    "product_id": "PRD0013",
+    "product_name": "Shelves Model N13",
+    "category": "Furniture",
+    "sub_category": "Shelves",
+    "unit_cost": 492.68,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0014",
+    "product_name": "Tablets Model O14",
+    "category": "Electronics",
+    "sub_category": "Tablets",
+    "unit_cost": 142.6,
+    "supplier_id": "SUP006"
+  },
+  {
+    "product_id": "PRD0015",
+    "product_name": "Shelves Model P15",
+    "category": "Furniture",
+    "sub_category": "Shelves",
+    "unit_cost": 180.86,
+    "supplier_id": "SUP005"
+  },
+  {
+    "product_id": "PRD0016",
+    "product_name": "Laptops Model Q16",
+    "category": "Electronics",
+    "sub_category": "Laptops",
+    "unit_cost": 269.4,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0017",
+    "product_name": "Lamps Model R17",
+    "category": "Furniture",
+    "sub_category": "Lamps",
+    "unit_cost": 192.83,
+    "supplier_id": "SUP009"
+  },
+  {
+    "product_id": "PRD0018",
+    "product_name": "Shelves Model S18",
+    "category": "Furniture",
+    "sub_category": "Shelves",
+    "unit_cost": 422.21,
+    "supplier_id": "SUP001"
+  },
+  {
+    "product_id": "PRD0019",
+    "product_name": "Chairs Model T19",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "unit_cost": 403.5,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0020",
+    "product_name": "Stationery Model U20",
+    "category": "Office",
+    "sub_category": "Stationery",
+    "unit_cost": 109.44,
+    "supplier_id": "SUP010"
+  },
+  {
+    "product_id": "PRD0021",
+    "product_name": "Paper Model V21",
+    "category": "Office",
+    "sub_category": "Paper",
+    "unit_cost": 329.44,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0022",
+    "product_name": "Pants Model W22",
+    "category": "Clothing",
+    "sub_category": "Pants",
+    "unit_cost": 136.12,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0023",
+    "product_name": "Software Model X23",
+    "category": "Office",
+    "sub_category": "Software",
+    "unit_cost": 449.42,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0024",
+    "product_name": "Paper Model Y24",
+    "category": "Office",
+    "sub_category": "Paper",
+    "unit_cost": 498.68,
+    "supplier_id": "SUP003"
+  },
+  {
+    "product_id": "PRD0025",
+    "product_name": "Shirts Model Z25",
+    "category": "Clothing",
+    "sub_category": "Shirts",
+    "unit_cost": 379.11,
+    "supplier_id": "SUP002"
+  },
+  {
+    "product_id": "PRD0026",
+    "product_name": "Desks Model A26",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 397.08,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0027",
+    "product_name": "Tablets Model B27",
+    "category": "Electronics",
+    "sub_category": "Tablets",
+    "unit_cost": 193.9,
+    "supplier_id": "SUP008"
+  },
+  {
+    "product_id": "PRD0028",
+    "product_name": "Stationery Model C28",
+    "category": "Office",
+    "sub_category": "Stationery",
+    "unit_cost": 341.74,
+    "supplier_id": "SUP002"
+  },
+  {
+    "product_id": "PRD0029",
+    "product_name": "Printers Model D29",
+    "category": "Office",
+    "sub_category": "Printers",
+    "unit_cost": 60.22,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0030",
+    "product_name": "Lamps Model E30",
+    "category": "Furniture",
+    "sub_category": "Lamps",
+    "unit_cost": 6.61,
+    "supplier_id": "SUP005"
+  },
+  {
+    "product_id": "PRD0031",
+    "product_name": "Chairs Model F31",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "unit_cost": 435.91,
+    "supplier_id": "SUP005"
+  },
+  {
+    "product_id": "PRD0032",
+    "product_name": "Desks Model G32",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 190.09,
+    "supplier_id": "SUP003"
+  },
+  {
+    "product_id": "PRD0033",
+    "product_name": "Accessories Model H33",
+    "category": "Electronics",
+    "sub_category": "Accessories",
+    "unit_cost": 246.86,
+    "supplier_id": "SUP002"
+  },
+  {
+    "product_id": "PRD0034",
+    "product_name": "Printers Model I34",
+    "category": "Office",
+    "sub_category": "Printers",
+    "unit_cost": 123.53,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0035",
+    "product_name": "Smartphones Model J35",
+    "category": "Electronics",
+    "sub_category": "Smartphones",
+    "unit_cost": 367.29,
+    "supplier_id": "SUP002"
+  },
+  {
+    "product_id": "PRD0036",
+    "product_name": "Desks Model K36",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 331.58,
+    "supplier_id": "SUP009"
+  },
+  {
+    "product_id": "PRD0037",
+    "product_name": "Shelves Model L37",
+    "category": "Furniture",
+    "sub_category": "Shelves",
+    "unit_cost": 266.2,
+    "supplier_id": "SUP010"
+  },
+  {
+    "product_id": "PRD0038",
+    "product_name": "Pants Model M38",
+    "category": "Clothing",
+    "sub_category": "Pants",
+    "unit_cost": 464.81,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0039",
+    "product_name": "Software Model N39",
+    "category": "Office",
+    "sub_category": "Software",
+    "unit_cost": 497.6,
+    "supplier_id": "SUP006"
+  },
+  {
+    "product_id": "PRD0040",
+    "product_name": "Accessories Model O40",
+    "category": "Clothing",
+    "sub_category": "Accessories",
+    "unit_cost": 64.9,
+    "supplier_id": "SUP004"
+  },
+  {
+    "product_id": "PRD0041",
+    "product_name": "Accessories Model P41",
+    "category": "Electronics",
+    "sub_category": "Accessories",
+    "unit_cost": 15.41,
+    "supplier_id": "SUP009"
+  },
+  {
+    "product_id": "PRD0042",
+    "product_name": "Desks Model Q42",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 8.56,
+    "supplier_id": "SUP001"
+  },
+  {
+    "product_id": "PRD0043",
+    "product_name": "Chairs Model R43",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "unit_cost": 453.18,
+    "supplier_id": "SUP006"
+  },
+  {
+    "product_id": "PRD0044",
+    "product_name": "Laptops Model S44",
+    "category": "Electronics",
+    "sub_category": "Laptops",
+    "unit_cost": 142.85,
+    "supplier_id": "SUP008"
+  },
+  {
+    "product_id": "PRD0045",
+    "product_name": "Desks Model T45",
+    "category": "Furniture",
+    "sub_category": "Desks",
+    "unit_cost": 363.06,
+    "supplier_id": "SUP010"
+  },
+  {
+    "product_id": "PRD0046",
+    "product_name": "Pants Model U46",
+    "category": "Clothing",
+    "sub_category": "Pants",
+    "unit_cost": 393.39,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0047",
+    "product_name": "Chairs Model V47",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "unit_cost": 52.98,
+    "supplier_id": "SUP007"
+  },
+  {
+    "product_id": "PRD0048",
+    "product_name": "Software Model W48",
+    "category": "Office",
+    "sub_category": "Software",
+    "unit_cost": 208.5,
+    "supplier_id": "SUP001"
+  },
+  {
+    "product_id": "PRD0049",
+    "product_name": "Smartphones Model X49",
+    "category": "Electronics",
+    "sub_category": "Smartphones",
+    "unit_cost": 204.3,
+    "supplier_id": "SUP006"
+  },
+  {
+    "product_id": "PRD0050",
+    "product_name": "Laptops Model Y50",
+    "category": "Electronics",
+    "sub_category": "Laptops",
+    "unit_cost": 99.84,
+    "supplier_id": "SUP009"
+  }
+]
