@@ -228,7 +228,7 @@ sales_analytics/
 │   ├── V004__warehouse_star_schema.sql
 │   └── V005__indexes_and_constraints.sql
 ├── data/
-│   ├── generate_data.py        # Generates CSV + JSON + XML test data
+│   ├── generate_data.py        # CSV + JSON + XML test data
 │   └── raw/
 │       ├── sales.csv           # 5,000 rows (with injected dirty records)
 │       ├── products.json       # 50 products
